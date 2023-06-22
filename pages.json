@@ -1,0 +1,82 @@
+{
+
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/tabbar",
+			"style": {
+				"navigationBarTitleText": "首页",
+				"navigationBarBackgroundColor": "#3c9cff", // 隐藏系统导航栏
+				"navigationBarTextStyle": "white" // 状态栏字体为白色，只能为 white-白色，black-黑色 二选一
+			}
+		},
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "首页"
+				// "navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/category/category",
+			"style": {
+				"navigationBarTitleText": "分类"
+				// "navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/search/search",
+			"style": {
+				"navigationBarTitleText": "搜索"
+				// "navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/mine/mine",
+			"style": {
+				"navigationBarTitleText": "我的"
+				// "navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/category/category_info",
+			"style": {
+				"navigationBarTitleText": "信息",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/search/searchResults",
+			"style": {
+				"navigationBarTitleText": "搜索结果",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/preview/preview",
+			"style": {
+				"navigationBarTitleText": "预览",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/mine/about",
+			"style": {
+				"navigationBarTitleText": "关于我们"
+			}
+		},
+		{
+			"path": "pages/mine/mycount",
+			"style": {
+				"navigationBarTitleText": "获取积分"
+			}
+		}
+		
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		// "navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#3c9cff",
+		"backgroundColor": "#F8F8F8"
+	},
+	"uniIdRouter": {}
+}

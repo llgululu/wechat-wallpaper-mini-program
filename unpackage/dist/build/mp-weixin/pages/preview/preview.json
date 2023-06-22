@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "预览",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "u-navbar": "/uni_modules/uview-ui/components/u-navbar/u-navbar",
+    "u-tabbar": "/uni_modules/uview-ui/components/u-tabbar/u-tabbar",
+    "u-tabbar-item": "/uni_modules/uview-ui/components/u-tabbar-item/u-tabbar-item",
+    "u-modal": "/uni_modules/uview-ui/components/u-modal/u-modal"
+  }
+}

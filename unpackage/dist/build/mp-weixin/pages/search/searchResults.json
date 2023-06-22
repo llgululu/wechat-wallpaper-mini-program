@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "搜索结果",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "u-navbar": "/uni_modules/uview-ui/components/u-navbar/u-navbar",
+    "u-swiper": "/uni_modules/uview-ui/components/u-swiper/u-swiper",
+    "u-row": "/uni_modules/uview-ui/components/u-row/u-row",
+    "u-col": "/uni_modules/uview-ui/components/u-col/u-col",
+    "u-button": "/uni_modules/uview-ui/components/u-button/u-button",
+    "u-modal": "/uni_modules/uview-ui/components/u-modal/u-modal",
+    "u-loading-page": "/uni_modules/uview-ui/components/u-loading-page/u-loading-page"
+  }
+}

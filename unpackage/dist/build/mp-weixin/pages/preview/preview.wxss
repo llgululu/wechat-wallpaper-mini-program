@@ -1,0 +1,1 @@
+.preview{width:100%}.down_icon{position:fixed;bottom:10rpx;left:50%;z-index:20;-webkit-transform:translate(-50%);transform:translate(-50%)}.preview_image{display:block;margin:0 auto;height:100%;width:100%}
