@@ -9,23 +9,23 @@
 
 小程序配备登录功能，将用户名和图片名存入数据库，将用户头像存入azure云储存中，不占用服务器空间。
 
-<img src="https://gitee.com/Gulu_Lv/wechat-wallpaper-mini-program/raw/master/%E5%8F%96%E5%A3%81%E7%BA%B8.jpg" width="200" height="200" alt="小程序码"/>
+<img src="https://gitee.com/Gulu_Lv/wechat-wallpaper-mini-program/raw/master/%E5%9B%BE%E7%89%87/%E5%8F%96%E5%A3%81%E7%BA%B8.jpg" width="200" height="200" alt="小程序码"/>
 
 ### 页面展示
 页面依次为首页、分类、搜索、我的 4个主页面 
 
-<img src="https://gitee.com/Gulu_Lv/wechat-wallpaper-mini-program/raw/master/imageIMG_20230622_105323.jpg"  height="450" alt="首页"/>
-<img src="https://gitee.com/Gulu_Lv/wechat-wallpaper-mini-program/raw/master/IMG_20230622_105415.jpg" height="450" alt="分类"/>
-<img src="https://gitee.com/Gulu_Lv/wechat-wallpaper-mini-program/raw/master/IMG_20230622_105400.jpg" height="450" alt="搜索"/>
-<img src="https://gitee.com/Gulu_Lv/wechat-wallpaper-mini-program/raw/master/IMG_20230622_105332.jpg" height="450" alt="我的"/>
+<img src="https://gitee.com/Gulu_Lv/wechat-wallpaper-mini-program/raw/master/%E5%9B%BE%E7%89%87/IMG_20230622_105323.jpg"  height="450" alt="首页"/>
+<img src="https://gitee.com/Gulu_Lv/wechat-wallpaper-mini-program/raw/master/%E5%9B%BE%E7%89%87/IMG_20230622_105415.jpg" height="450" alt="分类"/>
+<img src="https://gitee.com/Gulu_Lv/wechat-wallpaper-mini-program/raw/master/%E5%9B%BE%E7%89%87/IMG_20230622_105400.jpg" height="450" alt="搜索"/>
+<img src="https://gitee.com/Gulu_Lv/wechat-wallpaper-mini-program/raw/master/%E5%9B%BE%E7%89%87/IMG_20230622_105332.jpg" height="450" alt="我的"/>
 
 
 页面依次为预览单张图片、分类展示、搜索结果展示、签到分享得积分 四个子页面
 
-<img src="https://gitee.com/Gulu_Lv/wechat-wallpaper-mini-program/raw/master/IMG_20230622_105748.jpg" height="450" alt="预览"/>
-<img src="https://gitee.com/Gulu_Lv/wechat-wallpaper-mini-program/raw/master/IMG_20230622_105818.jpg" height="450" alt="分类展示图片"/>
-<img src="https://gitee.com/Gulu_Lv/wechat-wallpaper-mini-program/raw/master/IMG_20230622_105803.jpg" height="450" alt="搜索结果"/>
-<img src="https://gitee.com/Gulu_Lv/wechat-wallpaper-mini-program/raw/master/IMG_20230622_105738.jpg" height="450" alt="签到分享"/>
+<img src="https://gitee.com/Gulu_Lv/wechat-wallpaper-mini-program/raw/master/%E5%9B%BE%E7%89%87/IMG_20230622_105748.jpg" height="450" alt="预览"/>
+<img src="https://gitee.com/Gulu_Lv/wechat-wallpaper-mini-program/raw/master/%E5%9B%BE%E7%89%87/IMG_20230622_105818.jpg" height="450" alt="分类展示图片"/>
+<img src="https://gitee.com/Gulu_Lv/wechat-wallpaper-mini-program/raw/master/%E5%9B%BE%E7%89%87/IMG_20230622_105803.jpg" height="450" alt="搜索结果"/>
+<img src="https://gitee.com/Gulu_Lv/wechat-wallpaper-mini-program/raw/master/%E5%9B%BE%E7%89%87/IMG_20230622_105738.jpg" height="450" alt="签到分享"/>
 
 ### 小程序端安装和发布教程
 
