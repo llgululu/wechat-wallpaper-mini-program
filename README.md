@@ -9,6 +9,8 @@
 
 小程序配备登录功能，将用户名和图片名存入数据库，将用户头像存入azure云储存中，不占用服务器空间。
 
+图片展示不全，请见我的 gitee： https://gitee.com/Gulu_Lv/wechat-wallpaper-mini-program
+
 小程序展示如下：
 
 <img src="https://gitee.com/Gulu_Lv/wechat-wallpaper-mini-program/raw/master/%E5%9B%BE%E7%89%87/%E5%8F%96%E5%A3%81%E7%BA%B8.jpg" width="200" height="200" alt="小程序码"/>
